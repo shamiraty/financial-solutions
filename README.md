@@ -1,3 +1,6 @@
+
+![data-science (3)](https://github.com/user-attachments/assets/17e3cf7a-d527-4843-bc24-bb6f3e653496)
+
 ### MAELEZO YA KIKOKOTOO CHA MKOPO NA FOMULA ZILIZOTUMIKA KWENYE SOFTWARE
 
 #### FEATURES
