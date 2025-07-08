@@ -1,5 +1,6 @@
 
-![data-science (3)](https://github.com/user-attachments/assets/17e3cf7a-d527-4843-bc24-bb6f3e653496)
+![Data Analytics png, word Data Analytics png, Data Analytics text effects png, Data Analytics word art png image_1657547225](https://github.com/user-attachments/assets/a07acc40-028d-4724-ad2e-39fde1fe658c)
+
 
 ### MAELEZO YA KIKOKOTOO CHA MKOPO NA FOMULA ZILIZOTUMIKA KWENYE SOFTWARE
 
