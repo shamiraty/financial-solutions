@@ -8,7 +8,11 @@
 - Mikopo isiyomaliza marejesho kwa muda uliopangwa
 - mikopo iliyofungwa ( imemalizika marejesho)
 - Mikopo inayoendelea (ipo ndani ya muda)
-- na mengineyo
+- Shedo ya marejesho (Armortization)
+- Kupakua data kwa Excel
+- Mengine yataongezwa na kubadilishwa kukidhi mahitaji yako
+
+### FOMULA ZILIZOTUMIKA ( UTABADILI NA KUWEKA VALUES  ZAKO )
 
 * **Kiwango cha Riba ya Mwaka (Annual Interest Rate):** 0.25 (25%)
 * **Kiwango cha Riba cha Kila Mwezi (Monthly Interest Rate):** 0.25 / 12 
